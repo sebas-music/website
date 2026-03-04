@@ -456,7 +456,7 @@ main {
 #seccion3{
     width: 100%;
     position: relative;
-    background: url(css/Imagenes/bg-section.jpg);
+    background: url(../Imagenes/bg-section.jpg);
     background-size: cover;
 
 }
